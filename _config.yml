@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Michael Bochkaryov
-email: misha@rattler.kiev.ua
+title: Michael Bochkaryov / notes on everything
+#email: misha@rattler.kiev.ua
 description: >- # this means to ignore newlines until "baseurl:"
   Michael "Rattler" Bochkaryov personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,9 @@ github_username:  blinohod
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
