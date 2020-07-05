@@ -30,7 +30,7 @@ url: "https://rattler.kiev.ua" # the base hostname & protocol for your site, e.g
 github_username:  blinohod
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
