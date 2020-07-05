@@ -4,20 +4,10 @@ title: About
 permalink: /about/
 ---
 
-# Hi there!
+Going to add few words about myself here.
 
-```shell
-VAR=$( /usr/bin/prog )
-```
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Community projects I participated
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* [My CPAN packages](https://metacpan.org/author/RATTLER)
+* [OSDN Conference](https://osdnconf.org/) - Open Source and Linux Conference in Kyiv, Ukraine
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
